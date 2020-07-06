@@ -1,0 +1,8 @@
+[19:59:56] {/Users/nilanjan1.sarkar/Documents/Vscode_Workspaces/Python_Workspace/flask_product_api/product_api/controller/product_controller.py:59} INFO - Got request for fetching all products
+[19:59:57] {/Users/nilanjan1.sarkar/.local/share/virtualenvs/flask_product_api-musJQFmf/lib/python3.7/site-packages/werkzeug/_internal.py:113} INFO - 127.0.0.1 - - [06/Jul/2020 19:59:57] "[37mGET /product HTTP/1.1[0m" 200 -
+[20:00:04] {/Users/nilanjan1.sarkar/Documents/Vscode_Workspaces/Python_Workspace/flask_product_api/product_api/controller/product_controller.py:59} INFO - Got request for fetching all products
+[20:00:04] {/Users/nilanjan1.sarkar/.local/share/virtualenvs/flask_product_api-musJQFmf/lib/python3.7/site-packages/werkzeug/_internal.py:113} INFO - 127.0.0.1 - - [06/Jul/2020 20:00:04] "[37mGET /product HTTP/1.1[0m" 200 -
+[20:00:08] {/Users/nilanjan1.sarkar/Documents/Vscode_Workspaces/Python_Workspace/flask_product_api/product_api/controller/product_controller.py:59} INFO - Got request for fetching all products
+[20:00:08] {/Users/nilanjan1.sarkar/.local/share/virtualenvs/flask_product_api-musJQFmf/lib/python3.7/site-packages/werkzeug/_internal.py:113} INFO - 127.0.0.1 - - [06/Jul/2020 20:00:08] "[37mGET /product HTTP/1.1[0m" 200 -
+[20:11:58] {/Users/nilanjan1.sarkar/Documents/Vscode_Workspaces/Python_Workspace/flask_product_api/product_api/controller/product_controller.py:59} INFO - Got request for fetching all products
+[20:11:59] {/Users/nilanjan1.sarkar/.local/share/virtualenvs/flask_product_api-musJQFmf/lib/python3.7/site-packages/werkzeug/_internal.py:113} INFO - 127.0.0.1 - - [06/Jul/2020 20:11:59] "[37mGET /product HTTP/1.1[0m" 200 -
