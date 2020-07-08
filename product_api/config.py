@@ -10,8 +10,6 @@ class Config:
     DEBUG = False
 
 class DevelopmentConfig(Config):
-    # uncomment the line below to use postgres
-    # SQLALCHEMY_DATABASE_URI = postgres_local_base
     DEBUG = True
     SQLALCHEMY_DATABASE_URI = 'mysql+pymysql://root:asd@10.159.21.107:30006/sample'
     SQLALCHEMY_TRACK_MODIFICATIONS = False
