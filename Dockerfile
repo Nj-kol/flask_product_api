@@ -2,10 +2,10 @@ FROM python:3.7.1
 
 LABEL Author="Nilanjan Sarkar"
 LABEL E-mail="Nilanjan.Sarkar@gmail.com"
-LABEL version="0.0.1b"
+LABEL version="0.0.1"
 
 ENV PYTHONDONTWRITEBYTECODE 1
-ENV FLASK_APP "app.py"
+ENV FLASK_APP "product_api"
 ENV FLASK_ENV "development"
 ENV FLASK_DEBUG True
 
