@@ -1,6 +1,13 @@
 
 # Flask REStful API demo
 
+## Set up python Environment
+
+```bash
+pipenv install
+pipenv shell
+```
+
 ## DB Set up
 
 ```
